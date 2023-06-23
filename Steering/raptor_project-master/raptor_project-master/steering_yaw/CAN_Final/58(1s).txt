@@ -1,0 +1,1053 @@
+
+############################################################   data hex round1  ###################################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679819815.403200    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819815.405150    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819815.506212    ID: 05800001    X Rx                DL:  8    60 04 21 01 ca 25 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819815.607216    ID: 05800001    X Rx                DL:  8    60 04 21 01 7b 1f 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819815.708426    ID: 05800001    X Rx                DL:  8    60 04 21 01 22 19 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819815.809064    ID: 05800001    X Rx                DL:  8    60 04 21 01 bb 12 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819815.910670    ID: 05800001    X Rx                DL:  8    60 04 21 01 79 0c 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819815.911863    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819816.012129    ID: 05800001    X Rx                DL:  8    60 04 21 01 f5 08 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819816.113288    ID: 05800001    X Rx                DL:  8    60 04 21 01 b8 07 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819816.214720    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 07 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819816.316015    ID: 05800001    X Rx                DL:  8    60 04 21 01 e3 07 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819816.416595    ID: 05800001    X Rx                DL:  8    60 04 21 01 9d 08 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819816.517486    ID: 05800001    X Rx                DL:  8    60 04 21 01 82 09 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819816.617712    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 0a 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819816.618893    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819816.719005    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 0b 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819816.819826    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 0c 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819816.920703    ID: 05800001    X Rx                DL:  8    60 04 21 01 a5 0d 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819817.021337    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 0e 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819817.122359    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 0f 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819817.123536    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819817.223139    ID: 05800001    X Rx                DL:  8    60 04 21 01 cc 10 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819817.323228    ID: 05800001    X Rx                DL:  8    60 04 21 01 d3 11 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819817.324442    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819817.424956    ID: 05800001    X Rx                DL:  8    60 04 21 01 e4 12 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819817.426431    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819817.527239    ID: 05800001    X Rx                DL:  8    60 04 21 01 f2 13 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819817.628060    ID: 05800001    X Rx                DL:  8    60 04 21 01 ff 14 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819817.728964    ID: 05800001    X Rx                DL:  8    60 04 21 01 10 16 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819817.829129    ID: 05800001    X Rx                DL:  8    60 04 21 01 1b 17 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819817.830489    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819817.930983    ID: 05800001    X Rx                DL:  8    60 04 21 01 2a 18 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819818.031641    ID: 05800001    X Rx                DL:  8    60 04 21 01 35 19 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819818.132294    ID: 05800001    X Rx                DL:  8    60 04 21 01 4b 1a 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819818.233311    ID: 05800001    X Rx                DL:  8    60 04 21 01 53 1b 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819818.333994    ID: 05800001    X Rx                DL:  8    60 04 21 01 62 1c 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819818.434782    ID: 05800001    X Rx                DL:  8    60 04 21 01 72 1d 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819818.436136    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819818.535684    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 1e 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819818.636718    ID: 05800001    X Rx                DL:  8    60 04 21 01 91 1f 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679819818.738055    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 20 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819818.838768    ID: 05800001    X Rx                DL:  8    60 04 21 01 b1 21 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819818.939689    ID: 05800001    X Rx                DL:  8    60 04 21 01 b9 22 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819819.040003    ID: 05800001    X Rx                DL:  8    60 04 21 01 c7 23 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819819.041402    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819819.142317    ID: 05800001    X Rx                DL:  8    60 04 21 01 d2 24 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819819.242820    ID: 05800001    X Rx                DL:  8    60 04 21 01 e0 25 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819819.342963    ID: 05800001    X Rx                DL:  8    60 04 21 01 f0 26 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819819.344256    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819819.444220    ID: 05800001    X Rx                DL:  8    60 04 21 01 fa 27 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819819.445423    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819819.545671    ID: 05800001    X Rx                DL:  8    60 04 21 01 0b 29 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819819.645986    ID: 05800001    X Rx                DL:  8    60 04 21 01 07 25 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819819.647673    ID: 05800001    X Rx                DL:  8    60 04 21 01 07 25 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819819.747547    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 1e 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819819.847690    ID: 05800001    X Rx                DL:  8    60 04 21 01 82 18 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819819.848861    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819819.949043    ID: 05800001    X Rx                DL:  8    60 04 21 01 21 12 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819820.049728    ID: 05800001    X Rx                DL:  8    60 04 21 01 ed 0b 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819820.150765    ID: 05800001    X Rx                DL:  8    60 04 21 01 b8 08 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819820.251503    ID: 05800001    X Rx                DL:  8    60 04 21 01 95 07 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819820.352320    ID: 05800001    X Rx                DL:  8    60 04 21 01 7a 07 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819820.453139    ID: 05800001    X Rx                DL:  8    60 04 21 01 e8 07 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819820.553948    ID: 05800001    X Rx                DL:  8    60 04 21 01 9d 08 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819820.654435    ID: 05800001    X Rx                DL:  8    60 04 21 01 7e 09 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819820.655671    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819820.755683    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 0a 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819820.856627    ID: 05800001    X Rx                DL:  8    60 04 21 01 90 0b 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819820.957064    ID: 05800001    X Rx                DL:  8    60 04 21 01 98 0c 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819820.958333    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819821.059534    ID: 05800001    X Rx                DL:  8    60 04 21 01 a5 0d 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819821.060611    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819821.160815    ID: 05800001    X Rx                DL:  8    60 04 21 01 b3 0e 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819821.261386    ID: 05800001    X Rx                DL:  8    60 04 21 01 bf 0f 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819821.362110    ID: 05800001    X Rx                DL:  8    60 04 21 01 d1 10 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819821.463041    ID: 05800001    X Rx                DL:  8    60 04 21 01 d2 11 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819821.563967    ID: 05800001    X Rx                DL:  8    60 04 21 01 e6 12 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819821.664924    ID: 05800001    X Rx                DL:  8    60 04 21 01 ef 13 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819821.765884    ID: 05800001    X Rx                DL:  8    60 04 21 01 01 15 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819821.866680    ID: 05800001    X Rx                DL:  8    60 04 21 01 13 16 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819821.967053    ID: 05800001    X Rx                DL:  8    60 04 21 01 1d 17 00 00     Channel: can0
+
+############################################################   data hex round2  ###################################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679819924.587869    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819924.590098    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819924.691429    ID: 05800001    X Rx                DL:  8    60 04 21 01 e8 25 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819924.791779    ID: 05800001    X Rx                DL:  8    60 04 21 01 9e 1f 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819924.792950    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819924.893166    ID: 05800001    X Rx                DL:  8    60 04 21 01 45 19 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819924.993993    ID: 05800001    X Rx                DL:  8    60 04 21 01 dc 12 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819925.095130    ID: 05800001    X Rx                DL:  8    60 04 21 01 9c 0c 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819925.096540    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819925.195939    ID: 05800001    X Rx                DL:  8    60 04 21 01 06 09 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819925.296754    ID: 05800001    X Rx                DL:  8    60 04 21 01 c0 07 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819925.397494    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 07 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819925.498317    ID: 05800001    X Rx                DL:  8    60 04 21 01 e2 07 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819925.599010    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 08 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819925.699924    ID: 05800001    X Rx                DL:  8    60 04 21 01 82 09 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819925.800796    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 0a 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819925.900917    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 0b 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819925.901996    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819926.002334    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 0c 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819926.103393    ID: 05800001    X Rx                DL:  8    60 04 21 01 a1 0d 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819926.203911    ID: 05800001    X Rx                DL:  8    60 04 21 01 b3 0e 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819926.205086    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819926.304892    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 0f 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819926.406095    ID: 05800001    X Rx                DL:  8    60 04 21 01 ce 10 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819926.506864    ID: 05800001    X Rx                DL:  8    60 04 21 01 d5 11 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819926.607851    ID: 05800001    X Rx                DL:  8    60 04 21 01 e9 12 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819926.709386    ID: 05800001    X Rx                DL:  8    60 04 21 01 f4 13 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819926.810666    ID: 05800001    X Rx                DL:  8    60 04 21 01 06 15 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819926.911513    ID: 05800001    X Rx                DL:  8    60 04 21 01 15 16 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819927.012109    ID: 05800001    X Rx                DL:  8    60 04 21 01 1a 17 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819927.113005    ID: 05800001    X Rx                DL:  8    60 04 21 01 2b 18 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819927.213473    ID: 05800001    X Rx                DL:  8    60 04 21 01 35 19 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819927.214581    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819927.314630    ID: 05800001    X Rx                DL:  8    60 04 21 01 49 1a 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819927.416081    ID: 05800001    X Rx                DL:  8    60 04 21 01 56 1b 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819927.417325    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819927.516839    ID: 05800001    X Rx                DL:  8    60 04 21 01 63 1c 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819927.617658    ID: 05800001    X Rx                DL:  8    60 04 21 01 73 1d 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819927.718320    ID: 05800001    X Rx                DL:  8    60 04 21 01 7b 1e 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819927.819566    ID: 05800001    X Rx                DL:  8    60 04 21 01 90 1f 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819927.919755    ID: 05800001    X Rx                DL:  8    60 04 21 01 9a 20 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679819928.020518    ID: 05800001    X Rx                DL:  8    60 04 21 01 b0 21 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819928.121192    ID: 05800001    X Rx                DL:  8    60 04 21 01 b5 22 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819928.222787    ID: 05800001    X Rx                DL:  8    60 04 21 01 cd 23 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819928.323817    ID: 05800001    X Rx                DL:  8    60 04 21 01 d5 24 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819928.424920    ID: 05800001    X Rx                DL:  8    60 04 21 01 e5 25 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819928.525977    ID: 05800001    X Rx                DL:  8    60 04 21 01 f0 26 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819928.526941    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819928.626915    ID: 05800001    X Rx                DL:  8    60 04 21 01 fa 27 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819928.727762    ID: 05800001    X Rx                DL:  8    60 04 21 01 0b 29 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819928.828499    ID: 05800001    X Rx                DL:  8    60 04 21 01 0b 25 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819928.929258    ID: 05800001    X Rx                DL:  8    60 04 21 01 bd 1e 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819929.030131    ID: 05800001    X Rx                DL:  8    60 04 21 01 5f 18 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819929.131081    ID: 05800001    X Rx                DL:  8    60 04 21 01 21 12 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819929.232026    ID: 05800001    X Rx                DL:  8    60 04 21 01 ee 0b 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819929.333048    ID: 05800001    X Rx                DL:  8    60 04 21 01 b9 08 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819929.433870    ID: 05800001    X Rx                DL:  8    60 04 21 01 93 07 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819929.534679    ID: 05800001    X Rx                DL:  8    60 04 21 01 78 07 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819929.634846    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 07 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819929.636724    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 07 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819929.736684    ID: 05800001    X Rx                DL:  8    60 04 21 01 99 08 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819929.837382    ID: 05800001    X Rx                DL:  8    60 04 21 01 81 09 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819929.938394    ID: 05800001    X Rx                DL:  8    60 04 21 01 7c 0a 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819930.039371    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 0b 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819930.140137    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 0c 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819930.241142    ID: 05800001    X Rx                DL:  8    60 04 21 01 a3 0d 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819930.341861    ID: 05800001    X Rx                DL:  8    60 04 21 01 b5 0e 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819930.442949    ID: 05800001    X Rx                DL:  8    60 04 21 01 be 0f 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819930.543465    ID: 05800001    X Rx                DL:  8    60 04 21 01 cb 10 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819930.644404    ID: 05800001    X Rx                DL:  8    60 04 21 01 d3 11 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819930.745032    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 12 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819930.746150    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819930.845781    ID: 05800001    X Rx                DL:  8    60 04 21 01 ef 13 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819930.946368    ID: 05800001    X Rx                DL:  8    60 04 21 01 03 15 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819931.046975    ID: 05800001    X Rx                DL:  8    60 04 21 01 10 16 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819931.147922    ID: 05800001    X Rx                DL:  8    60 04 21 01 1a 17 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819931.248830    ID: 05800001    X Rx                DL:  8    60 04 21 01 2e 18 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819931.349548    ID: 05800001    X Rx                DL:  8    60 04 21 01 37 19 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819931.450169    ID: 05800001    X Rx                DL:  8    60 04 21 01 4a 1a 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819931.451158    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819931.551298    ID: 05800001    X Rx                DL:  8    60 04 21 01 56 1b 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819931.652179    ID: 05800001    X Rx                DL:  8    60 04 21 01 60 1c 00 00     Channel: can0
+
+############################################################   data hex round3  ###################################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679819990.139464    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819990.141474    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819990.242730    ID: 05800001    X Rx                DL:  8    60 04 21 01 c2 25 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819990.343801    ID: 05800001    X Rx                DL:  8    60 04 21 01 9a 1f 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819990.445357    ID: 05800001    X Rx                DL:  8    60 04 21 01 1d 19 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819990.546297    ID: 05800001    X Rx                DL:  8    60 04 21 01 db 12 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819990.647261    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 0c 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819990.748784    ID: 05800001    X Rx                DL:  8    60 04 21 01 fe 08 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819990.849286    ID: 05800001    X Rx                DL:  8    60 04 21 01 ba 07 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819990.950322    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 07 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819990.951493    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819991.051731    ID: 05800001    X Rx                DL:  8    60 04 21 01 df 07 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819991.152526    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 08 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819991.253277    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 09 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819991.354247    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 0a 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819991.455207    ID: 05800001    X Rx                DL:  8    60 04 21 01 95 0b 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819991.555556    ID: 05800001    X Rx                DL:  8    60 04 21 01 95 0c 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819991.556834    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819991.657601    ID: 05800001    X Rx                DL:  8    60 04 21 01 a6 0d 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819991.757975    ID: 05800001    X Rx                DL:  8    60 04 21 01 b0 0e 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819991.759164    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819991.858795    ID: 05800001    X Rx                DL:  8    60 04 21 01 bb 0f 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819991.860128    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819991.960078    ID: 05800001    X Rx                DL:  8    60 04 21 01 cd 10 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819992.061101    ID: 05800001    X Rx                DL:  8    60 04 21 01 d6 11 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819992.161828    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 12 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819992.262656    ID: 05800001    X Rx                DL:  8    60 04 21 01 f1 13 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819992.263845    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819992.363751    ID: 05800001    X Rx                DL:  8    60 04 21 01 04 15 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819992.464374    ID: 05800001    X Rx                DL:  8    60 04 21 01 11 16 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819992.564503    ID: 05800001    X Rx                DL:  8    60 04 21 01 19 17 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819992.565793    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819992.666372    ID: 05800001    X Rx                DL:  8    60 04 21 01 2b 18 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819992.767336    ID: 05800001    X Rx                DL:  8    60 04 21 01 35 19 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819992.868305    ID: 05800001    X Rx                DL:  8    60 04 21 01 4c 1a 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819992.968995    ID: 05800001    X Rx                DL:  8    60 04 21 01 56 1b 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819993.070369    ID: 05800001    X Rx                DL:  8    60 04 21 01 66 1c 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819993.171562    ID: 05800001    X Rx                DL:  8    60 04 21 01 75 1d 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819993.272466    ID: 05800001    X Rx                DL:  8    60 04 21 01 82 1e 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819993.373333    ID: 05800001    X Rx                DL:  8    60 04 21 01 90 1f 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819993.473941    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 20 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679819993.575083    ID: 05800001    X Rx                DL:  8    60 04 21 01 af 21 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679819993.576202    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679819993.676425    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 22 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679819993.777240    ID: 05800001    X Rx                DL:  8    60 04 21 01 c9 23 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679819993.878075    ID: 05800001    X Rx                DL:  8    60 04 21 01 d4 24 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679819993.979063    ID: 05800001    X Rx                DL:  8    60 04 21 01 e3 25 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679819994.079197    ID: 05800001    X Rx                DL:  8    60 04 21 01 f3 26 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679819994.080337    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679819994.180793    ID: 05800001    X Rx                DL:  8    60 04 21 01 f9 27 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679819994.281809    ID: 05800001    X Rx                DL:  8    60 04 21 01 0a 29 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679819994.383193    ID: 05800001    X Rx                DL:  8    60 04 21 01 2f 25 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679819994.484600    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 1e 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679819994.585174    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 18 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679819994.686316    ID: 05800001    X Rx                DL:  8    60 04 21 01 24 12 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679819994.687475    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679819994.787137    ID: 05800001    X Rx                DL:  8    60 04 21 01 f1 0b 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679819994.888037    ID: 05800001    X Rx                DL:  8    60 04 21 01 ba 08 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679819994.989140    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 07 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679819995.089764    ID: 05800001    X Rx                DL:  8    60 04 21 01 7a 07 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679819995.091034    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679819995.191700    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 07 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679819995.292549    ID: 05800001    X Rx                DL:  8    60 04 21 01 9d 08 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679819995.393580    ID: 05800001    X Rx                DL:  8    60 04 21 01 81 09 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679819995.494411    ID: 05800001    X Rx                DL:  8    60 04 21 01 81 0a 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679819995.594666    ID: 05800001    X Rx                DL:  8    60 04 21 01 8e 0b 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679819995.595885    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679819995.696108    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 0c 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679819995.797105    ID: 05800001    X Rx                DL:  8    60 04 21 01 a2 0d 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679819995.898227    ID: 05800001    X Rx                DL:  8    60 04 21 01 b4 0e 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679819995.899323    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679819995.999201    ID: 05800001    X Rx                DL:  8    60 04 21 01 bb 0f 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679819996.099861    ID: 05800001    X Rx                DL:  8    60 04 21 01 ce 10 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679819996.200889    ID: 05800001    X Rx                DL:  8    60 04 21 01 d5 11 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679819996.301710    ID: 05800001    X Rx                DL:  8    60 04 21 01 e9 12 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679819996.402487    ID: 05800001    X Rx                DL:  8    60 04 21 01 ef 13 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679819996.503502    ID: 05800001    X Rx                DL:  8    60 04 21 01 02 15 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679819996.605060    ID: 05800001    X Rx                DL:  8    60 04 21 01 13 16 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679819996.705987    ID: 05800001    X Rx                DL:  8    60 04 21 01 1b 17 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679819996.806060    ID: 05800001    X Rx                DL:  8    60 04 21 01 2a 18 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679819996.807350    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679819996.907342    ID: 05800001    X Rx                DL:  8    60 04 21 01 34 19 00 00     Channel: can0 
+
+############################################################   data hex round4  ###################################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679820045.653381    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820045.654539    ID: 05800001    X Rx                DL:  8    60 04 21 01 30 2a 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820045.655759    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820045.756442    ID: 05800001    X Rx                DL:  8    60 04 21 01 c1 25 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820045.857400    ID: 05800001    X Rx                DL:  8    60 04 21 01 75 1f 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820045.958100    ID: 05800001    X Rx                DL:  8    60 04 21 01 1d 19 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820046.059082    ID: 05800001    X Rx                DL:  8    60 04 21 01 da 12 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820046.060180    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820046.160477    ID: 05800001    X Rx                DL:  8    60 04 21 01 73 0c 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820046.261591    ID: 05800001    X Rx                DL:  8    60 04 21 01 f4 08 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820046.361832    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 07 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820046.363132    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820046.463641    ID: 05800001    X Rx                DL:  8    60 04 21 01 8e 07 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820046.564495    ID: 05800001    X Rx                DL:  8    60 04 21 01 df 07 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820046.665431    ID: 05800001    X Rx                DL:  8    60 04 21 01 9c 08 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820046.766140    ID: 05800001    X Rx                DL:  8    60 04 21 01 84 09 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820046.866886    ID: 05800001    X Rx                DL:  8    60 04 21 01 82 0a 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820046.967706    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 0b 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820047.068403    ID: 05800001    X Rx                DL:  8    60 04 21 01 96 0c 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820047.169268    ID: 05800001    X Rx                DL:  8    60 04 21 01 a2 0d 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820047.269873    ID: 05800001    X Rx                DL:  8    60 04 21 01 b3 0e 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820047.271088    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820047.370826    ID: 05800001    X Rx                DL:  8    60 04 21 01 bb 0f 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820047.471476    ID: 05800001    X Rx                DL:  8    60 04 21 01 c9 10 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820047.572377    ID: 05800001    X Rx                DL:  8    60 04 21 01 d1 11 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820047.673387    ID: 05800001    X Rx                DL:  8    60 04 21 01 e6 12 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820047.774686    ID: 05800001    X Rx                DL:  8    60 04 21 01 ef 13 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820047.875582    ID: 05800001    X Rx                DL:  8    60 04 21 01 00 15 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820047.976440    ID: 05800001    X Rx                DL:  8    60 04 21 01 14 16 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820047.977682    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820048.077702    ID: 05800001    X Rx                DL:  8    60 04 21 01 1c 17 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820048.177691    ID: 05800001    X Rx                DL:  8    60 04 21 01 2e 18 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820048.178958    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820048.279274    ID: 05800001    X Rx                DL:  8    60 04 21 01 38 19 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820048.379189    ID: 05800001    X Rx                DL:  8    60 04 21 01 48 1a 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820048.380975    ID: 05800001    X Rx                DL:  8    60 04 21 01 4c 1a 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820048.480917    ID: 05800001    X Rx                DL:  8    60 04 21 01 51 1b 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820048.581865    ID: 05800001    X Rx                DL:  8    60 04 21 01 61 1c 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820048.683017    ID: 05800001    X Rx                DL:  8    60 04 21 01 72 1d 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820048.783765    ID: 05800001    X Rx                DL:  8    60 04 21 01 81 1e 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820048.884862    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 1f 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679820048.985430    ID: 05800001    X Rx                DL:  8    60 04 21 01 9d 20 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820049.086391    ID: 05800001    X Rx                DL:  8    60 04 21 01 b0 21 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820049.186696    ID: 05800001    X Rx                DL:  8    60 04 21 01 b4 22 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820049.188064    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820049.288028    ID: 05800001    X Rx                DL:  8    60 04 21 01 c7 23 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820049.388817    ID: 05800001    X Rx                DL:  8    60 04 21 01 d3 24 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820049.489447    ID: 05800001    X Rx                DL:  8    60 04 21 01 e1 25 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820049.590265    ID: 05800001    X Rx                DL:  8    60 04 21 01 f3 26 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820049.691042    ID: 05800001    X Rx                DL:  8    60 04 21 01 f9 27 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820049.692221    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820049.791983    ID: 05800001    X Rx                DL:  8    60 04 21 01 0a 29 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820049.893452    ID: 05800001    X Rx                DL:  8    60 04 21 01 32 25 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820049.994400    ID: 05800001    X Rx                DL:  8    60 04 21 01 df 1e 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820050.095249    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 18 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820050.196160    ID: 05800001    X Rx                DL:  8    60 04 21 01 1e 12 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820050.297029    ID: 05800001    X Rx                DL:  8    60 04 21 01 ea 0b 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820050.397868    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 08 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820050.498979    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 07 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820050.599710    ID: 05800001    X Rx                DL:  8    60 04 21 01 79 07 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820050.700330    ID: 05800001    X Rx                DL:  8    60 04 21 01 e5 07 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820050.801406    ID: 05800001    X Rx                DL:  8    60 04 21 01 9a 08 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820050.902444    ID: 05800001    X Rx                DL:  8    60 04 21 01 80 09 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820050.903532    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820051.003239    ID: 05800001    X Rx                DL:  8    60 04 21 01 7f 0a 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820051.103993    ID: 05800001    X Rx                DL:  8    60 04 21 01 92 0b 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820051.205630    ID: 05800001    X Rx                DL:  8    60 04 21 01 98 0c 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820051.306833    ID: 05800001    X Rx                DL:  8    60 04 21 01 a5 0d 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820051.407564    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 0e 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820051.508569    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 0f 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820051.609322    ID: 05800001    X Rx                DL:  8    60 04 21 01 cd 10 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820051.710242    ID: 05800001    X Rx                DL:  8    60 04 21 01 d3 11 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820051.811225    ID: 05800001    X Rx                DL:  8    60 04 21 01 e6 12 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820051.911852    ID: 05800001    X Rx                DL:  8    60 04 21 01 f1 13 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820051.913624    ID: 05800001    X Rx                DL:  8    60 04 21 01 f4 13 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820052.012901    ID: 05800001    X Rx                DL:  8    60 04 21 01 02 15 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820052.014105    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820052.113735    ID: 05800001    X Rx                DL:  8    60 04 21 01 12 16 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820052.114925    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820052.215568    ID: 05800001    X Rx                DL:  8    60 04 21 01 1c 17 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820052.316743    ID: 05800001    X Rx                DL:  8    60 04 21 01 2f 18 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820052.417513    ID: 05800001    X Rx                DL:  8    60 04 21 01 38 19 00 00     Channel: can0
+
+############################################################   data hex round5  ###################################################################################
+    
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679820141.407621    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820141.409743    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820141.510950    ID: 05800001    X Rx                DL:  8    60 04 21 01 ca 25 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820141.611555    ID: 05800001    X Rx                DL:  8    60 04 21 01 a1 1f 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820141.712533    ID: 05800001    X Rx                DL:  8    60 04 21 01 4a 19 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820141.813353    ID: 05800001    X Rx                DL:  8    60 04 21 01 e4 12 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820141.914217    ID: 05800001    X Rx                DL:  8    60 04 21 01 9c 0c 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820142.014380    ID: 05800001    X Rx                DL:  8    60 04 21 01 09 09 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820142.016232    ID: 05800001    X Rx                DL:  8    60 04 21 01 09 09 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820142.116013    ID: 05800001    X Rx                DL:  8    60 04 21 01 bf 07 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820142.217431    ID: 05800001    X Rx                DL:  8    60 04 21 01 93 07 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820142.318672    ID: 05800001    X Rx                DL:  8    60 04 21 01 e0 07 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820142.419271    ID: 05800001    X Rx                DL:  8    60 04 21 01 98 08 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820142.520005    ID: 05800001    X Rx                DL:  8    60 04 21 01 7e 09 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820142.621172    ID: 05800001    X Rx                DL:  8    60 04 21 01 7f 0a 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820142.722296    ID: 05800001    X Rx                DL:  8    60 04 21 01 90 0b 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820142.823081    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 0c 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820142.923777    ID: 05800001    X Rx                DL:  8    60 04 21 01 a5 0d 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820143.025309    ID: 05800001    X Rx                DL:  8    60 04 21 01 b5 0e 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820143.125596    ID: 05800001    X Rx                DL:  8    60 04 21 01 bf 0f 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820143.127319    ID: 05800001    X Rx                DL:  8    60 04 21 01 bf 0f 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820143.227169    ID: 05800001    X Rx                DL:  8    60 04 21 01 ce 10 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820143.328087    ID: 05800001    X Rx                DL:  8    60 04 21 01 d7 11 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820143.429274    ID: 05800001    X Rx                DL:  8    60 04 21 01 ea 12 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820143.530152    ID: 05800001    X Rx                DL:  8    60 04 21 01 f0 13 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820143.630289    ID: 05800001    X Rx                DL:  8    60 04 21 01 02 15 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820143.631520    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820143.732001    ID: 05800001    X Rx                DL:  8    60 04 21 01 11 16 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820143.833217    ID: 05800001    X Rx                DL:  8    60 04 21 01 1b 17 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820143.933759    ID: 05800001    X Rx                DL:  8    60 04 21 01 2d 18 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820144.034043    ID: 05800001    X Rx                DL:  8    60 04 21 01 37 19 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820144.035275    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820144.135454    ID: 05800001    X Rx                DL:  8    60 04 21 01 4c 1a 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820144.236711    ID: 05800001    X Rx                DL:  8    60 04 21 01 5a 1b 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820144.337603    ID: 05800001    X Rx                DL:  8    60 04 21 01 64 1c 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820144.338788    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820144.438978    ID: 05800001    X Rx                DL:  8    60 04 21 01 76 1d 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820144.539918    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 1e 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820144.640015    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 1f 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820144.641287    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820144.741401    ID: 05800001    X Rx                DL:  8    60 04 21 01 98 20 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679820144.842301    ID: 05800001    X Rx                DL:  8    60 04 21 01 ae 21 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820144.943180    ID: 05800001    X Rx                DL:  8    60 04 21 01 b8 22 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820145.044291    ID: 05800001    X Rx                DL:  8    60 04 21 01 cc 23 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820145.145710    ID: 05800001    X Rx                DL:  8    60 04 21 01 d5 24 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820145.246348    ID: 05800001    X Rx                DL:  8    60 04 21 01 e2 25 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820145.347125    ID: 05800001    X Rx                DL:  8    60 04 21 01 ee 26 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820145.447571    ID: 05800001    X Rx                DL:  8    60 04 21 01 f8 27 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820145.448900    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820145.548858    ID: 05800001    X Rx                DL:  8    60 04 21 01 09 29 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820145.550109    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820145.649782    ID: 05800001    X Rx                DL:  8    60 04 21 01 31 25 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820145.750559    ID: 05800001    X Rx                DL:  8    60 04 21 01 e0 1e 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820145.851318    ID: 05800001    X Rx                DL:  8    60 04 21 01 85 18 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820145.953320    ID: 05800001    X Rx                DL:  8    60 04 21 01 48 12 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820146.053499    ID: 05800001    X Rx                DL:  8    60 04 21 01 0b 0c 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820146.153945    ID: 05800001    X Rx                DL:  8    60 04 21 01 c3 08 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820146.254704    ID: 05800001    X Rx                DL:  8    60 04 21 01 9c 07 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820146.355408    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 07 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820146.456170    ID: 05800001    X Rx                DL:  8    60 04 21 01 e2 07 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820146.557209    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 08 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820146.658073    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 09 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820146.758385    ID: 05800001    X Rx                DL:  8    60 04 21 01 80 0a 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820146.760204    ID: 05800001    X Rx                DL:  8    60 04 21 01 84 0a 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820146.860419    ID: 05800001    X Rx                DL:  8    60 04 21 01 91 0b 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820146.961128    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 0c 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820147.062062    ID: 05800001    X Rx                DL:  8    60 04 21 01 a5 0d 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820147.162178    ID: 05800001    X Rx                DL:  8    60 04 21 01 b4 0e 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820147.163413    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820147.263606    ID: 05800001    X Rx                DL:  8    60 04 21 01 bb 0f 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820147.364665    ID: 05800001    X Rx                DL:  8    60 04 21 01 cc 10 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820147.465822    ID: 05800001    X Rx                DL:  8    60 04 21 01 d2 11 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820147.566859    ID: 05800001    X Rx                DL:  8    60 04 21 01 e4 12 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820147.667591    ID: 05800001    X Rx                DL:  8    60 04 21 01 f0 13 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820147.768823    ID: 05800001    X Rx                DL:  8    60 04 21 01 04 15 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820147.869553    ID: 05800001    X Rx                DL:  8    60 04 21 01 16 16 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820147.870970    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820147.971175    ID: 05800001    X Rx                DL:  8    60 04 21 01 1c 17 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820148.072158    ID: 05800001    X Rx                DL:  8    60 04 21 01 2d 18 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820148.172878    ID: 05800001    X Rx                DL:  8    60 04 21 01 37 19 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820148.273677    ID: 05800001    X Rx                DL:  8    60 04 21 01 4d 1a 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820148.374384    ID: 05800001    X Rx                DL:  8    60 04 21 01 53 1b 00 00     Channel: can0
+
+############################################################   data hex round6  ###################################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Angle_sent , 0 , Receive , Timestamp: 1679820327.007902    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820327.009739    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820327.111235    ID: 05800001    X Rx                DL:  8    60 04 21 01 ca 25 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820327.212291    ID: 05800001    X Rx                DL:  8    60 04 21 01 7f 1f 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820327.312984    ID: 05800001    X Rx                DL:  8    60 04 21 01 22 19 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820327.414093    ID: 05800001    X Rx                DL:  8    60 04 21 01 be 12 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820327.515159    ID: 05800001    X Rx                DL:  8    60 04 21 01 7f 0c 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820327.616581    ID: 05800001    X Rx                DL:  8    60 04 21 01 f8 08 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820327.717721    ID: 05800001    X Rx                DL:  8    60 04 21 01 ba 07 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820327.818606    ID: 05800001    X Rx                DL:  8    60 04 21 01 8f 07 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820327.919977    ID: 05800001    X Rx                DL:  8    60 04 21 01 df 07 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820328.021269    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 08 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820328.022440    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820328.121987    ID: 05800001    X Rx                DL:  8    60 04 21 01 80 09 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820328.222754    ID: 05800001    X Rx                DL:  8    60 04 21 01 7d 0a 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820328.323775    ID: 05800001    X Rx                DL:  8    60 04 21 01 8e 0b 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820328.424579    ID: 05800001    X Rx                DL:  8    60 04 21 01 96 0c 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820328.525506    ID: 05800001    X Rx                DL:  8    60 04 21 01 a6 0d 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820328.626347    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 0e 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820328.727206    ID: 05800001    X Rx                DL:  8    60 04 21 01 c1 0f 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820328.827945    ID: 05800001    X Rx                DL:  8    60 04 21 01 cd 10 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820328.928762    ID: 05800001    X Rx                DL:  8    60 04 21 01 d3 11 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820329.029581    ID: 05800001    X Rx                DL:  8    60 04 21 01 e4 12 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820329.030846    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820329.131343    ID: 05800001    X Rx                DL:  8    60 04 21 01 ee 13 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820329.132565    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820329.232217    ID: 05800001    X Rx                DL:  8    60 04 21 01 ff 14 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820329.332566    ID: 05800001    X Rx                DL:  8    60 04 21 01 13 16 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820329.433396    ID: 05800001    X Rx                DL:  8    60 04 21 01 1d 17 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820329.534555    ID: 05800001    X Rx                DL:  8    60 04 21 01 2e 18 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820329.635351    ID: 05800001    X Rx                DL:  8    60 04 21 01 33 19 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820329.736093    ID: 05800001    X Rx                DL:  8    60 04 21 01 46 1a 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820329.836858    ID: 05800001    X Rx                DL:  8    60 04 21 01 53 1b 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820329.937881    ID: 05800001    X Rx                DL:  8    60 04 21 01 65 1c 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820330.039014    ID: 05800001    X Rx                DL:  8    60 04 21 01 74 1d 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820330.139988    ID: 05800001    X Rx                DL:  8    60 04 21 01 7f 1e 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820330.240713    ID: 05800001    X Rx                DL:  8    60 04 21 01 94 1f 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820330.341641    ID: 05800001    X Rx                DL:  8    60 04 21 01 97 20 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820330.342892    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820330.442441    ID: 05800001    X Rx                DL:  8    60 04 21 01 ab 21 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820330.543785    ID: 05800001    X Rx                DL:  8    60 04 21 01 b4 22 00 00     Channel: can0
+    Angle_sent , 0 , Receive , Timestamp: 1679820330.644905    ID: 05800001    X Rx                DL:  8    60 04 21 01 c7 23 00 00     Channel: can0
+    Angle_sent , 10 , Receive , Timestamp: 1679820330.745411    ID: 05800001    X Rx                DL:  8    60 04 21 01 d1 24 00 00     Channel: can0
+    Angle_sent , 20 , Receive , Timestamp: 1679820330.746678    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 30 , Receive , Timestamp: 1679820330.847891    ID: 05800001    X Rx                DL:  8    60 04 21 01 e3 25 00 00     Channel: can0
+    Angle_sent , 40 , Receive , Timestamp: 1679820330.948035    ID: 05800001    X Rx                DL:  8    60 04 21 01 ee 26 00 00     Channel: can0
+    Angle_sent , 50 , Receive , Timestamp: 1679820330.949100    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 60 , Receive , Timestamp: 1679820331.049095    ID: 05800001    X Rx                DL:  8    60 04 21 01 f9 27 00 00     Channel: can0
+    Angle_sent , 70 , Receive , Timestamp: 1679820331.149976    ID: 05800001    X Rx                DL:  8    60 04 21 01 0b 29 00 00     Channel: can0
+    Angle_sent , 80 , Receive , Timestamp: 1679820331.251054    ID: 05800001    X Rx                DL:  8    60 04 21 01 0c 25 00 00     Channel: can0
+    Angle_sent , 90 , Receive , Timestamp: 1679820331.351474    ID: 05800001    X Rx                DL:  8    60 04 21 01 bd 1e 00 00     Channel: can0
+    Angle_sent , 100 , Receive , Timestamp: 1679820331.352669    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 110 , Receive , Timestamp: 1679820331.453272    ID: 05800001    X Rx                DL:  8    60 04 21 01 62 18 00 00     Channel: can0
+    Angle_sent , 120 , Receive , Timestamp: 1679820331.553926    ID: 05800001    X Rx                DL:  8    60 04 21 01 ff 11 00 00     Channel: can0
+    Angle_sent , 130 , Receive , Timestamp: 1679820331.555077    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 140 , Receive , Timestamp: 1679820331.655019    ID: 05800001    X Rx                DL:  8    60 04 21 01 d1 0b 00 00     Channel: can0
+    Angle_sent , 150 , Receive , Timestamp: 1679820331.755831    ID: 05800001    X Rx                DL:  8    60 04 21 01 b6 08 00 00     Channel: can0
+    Angle_sent , 160 , Receive , Timestamp: 1679820331.856670    ID: 05800001    X Rx                DL:  8    60 04 21 01 93 07 00 00     Channel: can0
+    Angle_sent , 170 , Receive , Timestamp: 1679820331.957842    ID: 05800001    X Rx                DL:  8    60 04 21 01 79 07 00 00     Channel: can0
+    Angle_sent , 180 , Receive , Timestamp: 1679820332.058036    ID: 05800001    X Rx                DL:  8    60 04 21 01 e6 07 00 00     Channel: can0
+    Angle_sent , 190 , Receive , Timestamp: 1679820332.059066    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 200 , Receive , Timestamp: 1679820332.159544    ID: 05800001    X Rx                DL:  8    60 04 21 01 a0 08 00 00     Channel: can0
+    Angle_sent , 210 , Receive , Timestamp: 1679820332.260238    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 09 00 00     Channel: can0
+    Angle_sent , 220 , Receive , Timestamp: 1679820332.361866    ID: 05800001    X Rx                DL:  8    60 04 21 01 83 0a 00 00     Channel: can0
+    Angle_sent , 230 , Receive , Timestamp: 1679820332.463425    ID: 05800001    X Rx                DL:  8    60 04 21 01 95 0b 00 00     Channel: can0
+    Angle_sent , 240 , Receive , Timestamp: 1679820332.564263    ID: 05800001    X Rx                DL:  8    60 04 21 01 9b 0c 00 00     Channel: can0
+    Angle_sent , 250 , Receive , Timestamp: 1679820332.664390    ID: 05800001    X Rx                DL:  8    60 04 21 01 a7 0d 00 00     Channel: can0
+    Angle_sent , 260 , Receive , Timestamp: 1679820332.665650    ID: 05800001    X Rx                DL:  8    60 02 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 270 , Receive , Timestamp: 1679820332.765740    ID: 05800001    X Rx                DL:  8    60 04 21 01 b4 0e 00 00     Channel: can0
+    Angle_sent , 280 , Receive , Timestamp: 1679820332.865876    ID: 05800001    X Rx                DL:  8    60 04 21 01 bc 0f 00 00     Channel: can0
+    Angle_sent , 290 , Receive , Timestamp: 1679820332.867719    ID: 05800001    X Rx                DL:  8    60 04 21 01 c0 0f 00 00     Channel: can0
+    Angle_sent , 300 , Receive , Timestamp: 1679820332.967830    ID: 05800001    X Rx                DL:  8    60 04 21 01 cd 10 00 00     Channel: can0
+    Angle_sent , 310 , Receive , Timestamp: 1679820333.068606    ID: 05800001    X Rx                DL:  8    60 04 21 01 d5 11 00 00     Channel: can0
+    Angle_sent , 320 , Receive , Timestamp: 1679820333.169525    ID: 05800001    X Rx                DL:  8    60 04 21 01 e7 12 00 00     Channel: can0
+    Angle_sent , 330 , Receive , Timestamp: 1679820333.270670    ID: 05800001    X Rx                DL:  8    60 04 21 01 f2 13 00 00     Channel: can0
+    Angle_sent , 340 , Receive , Timestamp: 1679820333.371506    ID: 05800001    X Rx                DL:  8    60 04 21 01 05 15 00 00     Channel: can0
+    Angle_sent , 350 , Receive , Timestamp: 1679820333.472343    ID: 05800001    X Rx                DL:  8    60 04 21 01 14 16 00 00     Channel: can0
+    Angle_sent , 360 , Receive , Timestamp: 1679820333.573410    ID: 05800001    X Rx                DL:  8    60 04 21 01 19 17 00 00     Channel: can0
+    Angle_sent , 370 , Receive , Timestamp: 1679820333.674138    ID: 05800001    X Rx                DL:  8    60 04 21 01 2b 18 00 00     Channel: can0
+    Angle_sent , 380 , Receive , Timestamp: 1679820333.774891    ID: 05800001    X Rx                DL:  8    60 04 21 01 33 19 00 00     Channel: can0
+    Angle_sent , 390 , Receive , Timestamp: 1679820333.875896    ID: 05800001    X Rx                DL:  8    60 04 21 01 4a 1a 00 00     Channel: can0
+    Angle_sent , 400 , Receive , Timestamp: 1679820333.976777    ID: 05800001    X Rx                DL:  8    60 04 21 01 56 1b 00 00     Channel: can0
+_________________________________________________________________
+
+############################################################   data byteArray round1  ##############################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679816903.205190    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01*\x03\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x017\x04\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01F\x05\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01T\x06\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01a\x07\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01p\x08\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\x9a\x0b\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\xa7\x0c\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\xb5\r\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xd1\x0f\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01\xdf\x10\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01\xfb\x12\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\x17\x15\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x013\x17\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01A\x18\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01O\x19\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x04!\x01y\x1c\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01\x87\x1d\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01\x95\x1e\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x04!\x01\x95\x1e\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01\xa4\x1f\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01\xb2 \x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01\xb2 \x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\xbf!\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\xce"\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xdb#\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x04!\x01\xeb$\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xf8%\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01\xf8%\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b"`\x04!\x01\x06\'\x00\x00")
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\x14(\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\x14(\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01")\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01/*\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+
+############################################################   data byteArray round2  ##############################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679817409.893208    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x1d\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01*\x03\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x018\x04\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x018\x04\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01F\x05\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01b\x07\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01q\x08\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\x8c\n\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\x99\x0b\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\xa8\x0c\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01\xb5\r\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\xd2\x0f\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01\xfb\x12\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x17\x15\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x04!\x01A\x18\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01P\x19\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01z\x1c\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x04!\x01\x87\x1d\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01\x95\x1e\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01\xa3\x1f\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\xb1 \x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\xc0!\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xce"\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\xdc#\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\xe9$\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xe9$\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01\xf7%\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b"`\x04!\x01\x05\'\x00\x00")
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\x13(\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\x13(\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01\x0f\x01\x00\x00')
+
+############################################################   data byteArray round3  ##############################################################################
+
+     posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679817628.612260    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x81\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x04!\x01)\x03\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x04!\x017\x04\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01E\x05\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01b\x07\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01o\x08\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\x99\x0b\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xa8\x0c\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x04!\x01\xb6\r\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01\xd2\x0f\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\xfc\x12\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01\x17\x15\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01B\x18\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01O\x19\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01^\x1a\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x04!\x01y\x1c\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01\x87\x1d\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01\x96\x1e\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01\xa4\x1f\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x04!\x01\xb1 \x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\xbf!\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\xce"\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\xdb#\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x04!\x01\xea$\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xf7%\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01\xf7%\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b"`\x04!\x01\x05\'\x00\x00")
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\x14(\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01/*\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\x82\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\x82\x00\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+
+############################################################   data byteArray round4  ##############################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679817765.822159    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x04!\x01)\x03\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x018\x04\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x01E\x05\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x04!\x01b\x07\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01b\x07\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01o\x08\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\x99\x0b\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\xa7\x0c\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\xb5\r\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\xd2\x0f\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xd2\x0f\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\xfb\x12\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\x18\x15\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x013\x17\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x013\x17\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x04!\x01A\x18\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01O\x19\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01^\x1a\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01y\x1c\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x01\x86\x1d\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x04!\x01\x96\x1e\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01\xa3\x1f\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01\xb1 \x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01\xbf!\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01\xcd"\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x04!\x01\xdb#\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\xe9$\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\xf8%\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b"`\x04!\x01\x06\'\x00\x00")
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\x13(\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01/*\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\x82\x00\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x04!\x01)\x03\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x017\x04\x00\x00')
+
+############################################################   data byteArray round5  ##############################################################################
+
+    `posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679817918.127868    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x82\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01*\x03\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x017\x04\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01E\x05\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01a\x07\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01o\x08\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\x8c\n\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\x8c\n\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\x99\x0b\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x04!\x01\xa7\x0c\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\xb5\r\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01\xd1\x0f\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01\xe0\x10\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\xee\x11\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\xfb\x12\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01\x18\x15\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01B\x18\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01P\x19\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x04!\x01y\x1c\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01\x87\x1d\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01\x96\x1e\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x04!\x01\xa3\x1f\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01\xb1 \x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01\xbf!\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\xce"\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\xdb#\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\xe9$\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xf7%\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b"`\x04!\x01\x05\'\x00\x00")
+    Angle_sent , 270 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\x14(\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x04!\x01/*\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\r\x01\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01)\x03\x00\x00')`
+
+############################################################   data byteArray round6  ##############################################################################
+
+    posix
+    Message sent on Enable state data: Timestamp:        0.000000    ID: 06000001    X Rx                DL:  8    23 0d 20 01 00 00 00 00
+    Timestamp: 1679818111.861676    ID: 05800001    X Rx                DL:  8    60 0d 20 00 00 00 00 00     Channel: can0
+    Angle_sent , 0 , Receive , bytearray(b'`\x04!\x010*\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x01\x81\x00\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01*\x03\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x04!\x01*\x03\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x04!\x017\x04\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01F\x05\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x04!\x01F\x05\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01S\x06\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x04!\x01a\x07\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01o\x08\x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x04!\x01}\t\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x04!\x01\x8b\n\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x04!\x01\x99\x0b\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xa8\x0c\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 260 , Receive , bytearray(b'`\x04!\x01\xb5\r\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x04!\x01\xc3\x0e\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01\xd2\x0f\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01\xdf\x10\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\xed\x11\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\xfb\x12\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\t\x14\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x04!\x01\x17\x15\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x04!\x01%\x16\x00\x00')
+    Angle_sent , 0 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 10 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 20 , Receive , bytearray(b'`\x04!\x014\x17\x00\x00')
+    Angle_sent , 30 , Receive , bytearray(b'`\x04!\x01A\x18\x00\x00')
+    Angle_sent , 40 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 50 , Receive , bytearray(b'`\x04!\x01O\x19\x00\x00')
+    Angle_sent , 60 , Receive , bytearray(b'`\x04!\x01]\x1a\x00\x00')
+    Angle_sent , 70 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 80 , Receive , bytearray(b'`\x04!\x01k\x1b\x00\x00')
+    Angle_sent , 90 , Receive , bytearray(b'`\x04!\x01z\x1c\x00\x00')
+    Angle_sent , 100 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 110 , Receive , bytearray(b'`\x04!\x01\x86\x1d\x00\x00')
+    Angle_sent , 120 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 130 , Receive , bytearray(b'`\x04!\x01\x95\x1e\x00\x00')
+    Angle_sent , 140 , Receive , bytearray(b'`\x04!\x01\xa3\x1f\x00\x00')
+    Angle_sent , 150 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 160 , Receive , bytearray(b'`\x04!\x01\xb1 \x00\x00')
+    Angle_sent , 170 , Receive , bytearray(b'`\x04!\x01\xc0!\x00\x00')
+    Angle_sent , 180 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 190 , Receive , bytearray(b'`\x04!\x01\xce"\x00\x00')
+    Angle_sent , 200 , Receive , bytearray(b'`\x04!\x01\xdc#\x00\x00')
+    Angle_sent , 210 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 220 , Receive , bytearray(b'`\x04!\x01\xe9$\x00\x00')
+    Angle_sent , 230 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 240 , Receive , bytearray(b'`\x04!\x01\xf7%\x00\x00')
+    Angle_sent , 250 , Receive , bytearray(b"`\x04!\x01\x05\'\x00\x00")
+    Angle_sent , 260 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 270 , Receive , bytearray(b'`\x04!\x01\x14(\x00\x00')
+    Angle_sent , 280 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 290 , Receive , bytearray(b'`\x04!\x01!)\x00\x00')
+    Angle_sent , 300 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 310 , Receive , bytearray(b'`\x04!\x01/*\x00\x00')
+    Angle_sent , 320 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 330 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 340 , Receive , bytearray(b'`\x04!\x01\x83\x00\x00\x00')
+    Angle_sent , 350 , Receive , bytearray(b'`\x04!\x01\x0e\x01\x00\x00')
+    Angle_sent , 360 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 370 , Receive , bytearray(b'`\x04!\x01\x1b\x02\x00\x00')
+    Angle_sent , 380 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+    Angle_sent , 390 , Receive , bytearray(b'`\x04!\x01)\x03\x00\x00')
+    Angle_sent , 400 , Receive , bytearray(b'`\x02 \x00\x00\x00\x00\x00')
+_________________________________________________________________
+
